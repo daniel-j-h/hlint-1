@@ -89,6 +89,12 @@ Each issue could have one of the following labels:
   - `testing`: Hlint could use some help with testing.
   - `maintainer-request`: A maintainer has requested this contribution.
 
+If you need some help to move forward, log into the [HLint Gitter chat]. Neil
+has mentioned that he might be able to spare some cycles to help with
+questions.
+
+[HLint Gitter chat]: https://gitter.im/hlint/Lobby
+
 Please feel free to choose one of the issues. Once you're ready to start
 working, assign it to yourself. If you're not sure what to work on, please ask
 a mentor!

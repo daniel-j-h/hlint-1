@@ -7,7 +7,7 @@
   - [Volunteer as a Mentor](#volunteer-as-a-mentor)
   - [Getting Started](#getting-started)
   - [Finding a Task](#finding-a-task)
-  - [Tips][#tips]
+  - [Tips](#tips)
   - [Code of Conduct](#code-of-conduct)
   - [Thanks](#thanks)
 

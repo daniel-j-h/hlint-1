@@ -7,6 +7,7 @@
   - [Volunteer as a Mentor](#volunteer-as-a-mentor)
   - [Getting Started](#getting-started)
   - [Finding a Task](#finding-a-task)
+  - [Tips][#tips]
   - [Code of Conduct](#code-of-conduct)
   - [Thanks](#thanks)
 
@@ -101,10 +102,16 @@ a mentor!
 
 Please also feel free to choose your own issue to work on. It's quite likely
 you also found something that can be improved! Please create your issue on the
-issues page.
+issues page. Once you've submitted a pull request to the Hlint repository,
+please close the relevant issue with a link to your contribution.
 
-Once you've submitted a pull request to the Hlint repository, please close the
-relevant issue with a link to your contribution.
+### Tips
+
+  - [Making ghci fast]
+  - [HLint manual]
+
+[Making ghci fast]: http://chrisdone.com/posts/making-ghci-fast
+[HLint manual]: http://community.haskell.org/~ndm/darcs/hlint/hlint.htm
 
 ### Code of Conduct
 We want everyone to feel welcome. Let's behave nicely to each other.

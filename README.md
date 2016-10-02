@@ -63,7 +63,7 @@ machine:
   - 4) Run the following Stack commands in your Hlint directory:
     - Initialise a Stack configuration with `stack init`
     - Build the project and dependencies with `stack install`
-    - Run the tests with `hlint test` (requires `~/.local/bin/` on `$PATH`)
+    - Run the tests with `stack exec -- hlint test`
 
 [Install stack]: https://docs.haskellstack.org/en/stable/install_and_upgrade/
 [Fork Hlint on Github]: https://github.com/ndmitchell/hlint#fork-destination-box
